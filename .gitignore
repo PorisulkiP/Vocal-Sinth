@@ -246,18 +246,8 @@ paket-files/
 __pycache__/
 *.pyc
 
-# Cake - Uncomment if you are using it
-# tools/**
-# !tools/packages.config
-
-# Tabs Studio
-*.tss
-
 # Telerik's JustMock configuration file
 *.jmconfig
-
-# MSBuild Binary and Structured Log
-*.binlog
 
 # NVidia Nsight GPU debugger configuration file
 *.nvuser
