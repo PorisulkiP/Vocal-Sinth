@@ -29,8 +29,10 @@
 
 ![image](https://user-images.githubusercontent.com/48221009/179405775-6b77bb0a-1aa3-46b8-8998-f27b297dc553.png)
 <p>Одна из страниц настроек программы</p>
+
 ![image](https://user-images.githubusercontent.com/48221009/179405786-f4a49f31-25b7-4e8f-838f-f049d6e291a6.png)
 <p>Синтезатор вокала в режиме "Instrumental only"</p>
+
 ![image](https://user-images.githubusercontent.com/48221009/179405896-24578f96-4e9b-49fb-8cb5-62809f63c361.png)
 
 <h2> Project setup / Настройка проекта  </h2>
